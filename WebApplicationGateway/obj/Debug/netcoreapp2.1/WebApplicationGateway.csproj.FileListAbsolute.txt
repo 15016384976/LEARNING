@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\bin\Debug\netcoreapp2.1\WebApplicationGateway.deps.json
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\bin\Debug\netcoreapp2.1\WebApplicationGateway.runtimeconfig.json
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\bin\Debug\netcoreapp2.1\WebApplicationGateway.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\bin\Debug\netcoreapp2.1\WebApplicationGateway.dll
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\bin\Debug\netcoreapp2.1\WebApplicationGateway.pdb
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.dll
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.pdb
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.csprojAssemblyReference.cache

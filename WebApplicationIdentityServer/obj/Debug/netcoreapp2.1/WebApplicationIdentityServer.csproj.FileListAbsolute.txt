@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\bin\Debug\netcoreapp2.1\WebApplicationIdentityServer.deps.json
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\bin\Debug\netcoreapp2.1\WebApplicationIdentityServer.runtimeconfig.json
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\bin\Debug\netcoreapp2.1\WebApplicationIdentityServer.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\bin\Debug\netcoreapp2.1\WebApplicationIdentityServer.dll
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\bin\Debug\netcoreapp2.1\WebApplicationIdentityServer.pdb
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.dll
+C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.pdb

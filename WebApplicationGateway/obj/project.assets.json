@@ -12436,11 +12436,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\MICROSERVICE-DEMO\\WebApplicationGateway\\WebApplicationGateway.csproj",
+      "projectUniqueName": "D:\\LEARNING\\MICROSERVICE-DEMO\\WebApplicationGateway\\WebApplicationGateway.csproj",
       "projectName": "WebApplicationGateway",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\MICROSERVICE-DEMO\\WebApplicationGateway\\WebApplicationGateway.csproj",
+      "projectPath": "D:\\LEARNING\\MICROSERVICE-DEMO\\WebApplicationGateway\\WebApplicationGateway.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\MICROSERVICE-DEMO\\WebApplicationGateway\\obj\\",
+      "outputPath": "D:\\LEARNING\\MICROSERVICE-DEMO\\WebApplicationGateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -11962,11 +11962,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\MICROSERVICE-DEMO\\WebApplicationIdentityServer\\WebApplicationIdentityServer.csproj",
+      "projectUniqueName": "D:\\LEARNING\\MICROSERVICE-DEMO\\WebApplicationIdentityServer\\WebApplicationIdentityServer.csproj",
       "projectName": "WebApplicationIdentityServer",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\MICROSERVICE-DEMO\\WebApplicationIdentityServer\\WebApplicationIdentityServer.csproj",
+      "projectPath": "D:\\LEARNING\\MICROSERVICE-DEMO\\WebApplicationIdentityServer\\WebApplicationIdentityServer.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\MICROSERVICE-DEMO\\WebApplicationIdentityServer\\obj\\",
+      "outputPath": "D:\\LEARNING\\MICROSERVICE-DEMO\\WebApplicationIdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

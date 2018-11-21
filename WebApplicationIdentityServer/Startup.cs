@@ -14,7 +14,7 @@ namespace WebApplicationIdentityServer
                 .AddDeveloperSigningCredential()
                 .AddInMemoryApiResources(new List<ApiResource>
             {
-                new ApiResource("api1", "My API"),
+                new ApiResource("gateway", "My API"),
                 new ApiResource("gateway_admin", "My admin API")
             })
                 .AddInMemoryClients(new List<Client>
@@ -28,7 +28,7 @@ namespace WebApplicationIdentityServer
                     {
                         new Secret("secret1".Sha256())
                     },
-                    AllowedScopes = { "api1" }
+                    AllowedScopes = { "gateway" }
                 },
                 new Client
                 {
@@ -39,7 +39,7 @@ namespace WebApplicationIdentityServer
                     {
                         new Secret("secret2".Sha256())
                     },
-                    AllowedScopes = { "gateway_admin" }
+                    AllowedScopes = { "gateway","gateway_admin" }
                 }
             });
         }

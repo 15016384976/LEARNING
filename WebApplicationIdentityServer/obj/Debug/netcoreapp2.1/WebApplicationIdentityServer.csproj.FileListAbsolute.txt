@@ -12,3 +12,17 @@ C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\ob
 C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\bin\Debug\netcoreapp2.1\WebApplicationIdentityServer.pdb
 C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.dll
 C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.pdb
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\bin\Debug\netcoreapp2.1\WebApplicationIdentityServer.deps.json
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\bin\Debug\netcoreapp2.1\WebApplicationIdentityServer.runtimeconfig.json
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\bin\Debug\netcoreapp2.1\WebApplicationIdentityServer.runtimeconfig.dev.json
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\bin\Debug\netcoreapp2.1\WebApplicationIdentityServer.dll
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\bin\Debug\netcoreapp2.1\WebApplicationIdentityServer.pdb
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.csprojAssemblyReference.cache
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.csproj.CoreCompileInputs.cache
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.RazorAssemblyInfo.cache
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.RazorAssemblyInfo.cs
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.AssemblyInfoInputs.cache
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.AssemblyInfo.cs
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.RazorTargetAssemblyInfo.cache
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.dll
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationIdentityServer\obj\Debug\netcoreapp2.1\WebApplicationIdentityServer.pdb

@@ -11,6 +11,13 @@ namespace WebApplicationGateway
     {
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAuthentication()
+                .AddIdentityServerAuthentication("TestKey", options => {
+                    options.Authority = "http://localhost:6611";
+                    options.ApiName = "gateway";
+                    options.RequireHttpsMetadata = false;
+                });
+
             services.AddOcelot()
                     .AddDbOcelotSqlServer(options =>
                     {

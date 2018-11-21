@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\MICROSERVICE-DEMO\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\LEARNING\\MICROSERVICE-DEMO\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\MICROSERVICE-DEMO\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\LEARNING\\MICROSERVICE-DEMO\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\MICROSERVICE-DEMO\\WebApplication1\\obj\\",
+      "outputPath": "D:\\LEARNING\\MICROSERVICE-DEMO\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

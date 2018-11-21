@@ -12,3 +12,17 @@ C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netco
 C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
 C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
 C:\Users\Administrator\Desktop\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+D:\LEARNING\MICROSERVICE-DEMO\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb

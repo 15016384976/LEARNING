@@ -17,7 +17,6 @@ D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\bin\Debug\netcoreapp2.1\WebA
 D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\bin\Debug\netcoreapp2.1\WebApplicationGateway.runtimeconfig.dev.json
 D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\bin\Debug\netcoreapp2.1\WebApplicationGateway.dll
 D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\bin\Debug\netcoreapp2.1\WebApplicationGateway.pdb
-D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.csprojAssemblyReference.cache
 D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.csproj.CoreCompileInputs.cache
 D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.RazorAssemblyInfo.cache
 D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.RazorAssemblyInfo.cs
@@ -26,3 +25,4 @@ D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebA
 D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.RazorTargetAssemblyInfo.cache
 D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.dll
 D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.pdb
+D:\LEARNING\MICROSERVICE-DEMO\WebApplicationGateway\obj\Debug\netcoreapp2.1\WebApplicationGateway.csprojAssemblyReference.cache

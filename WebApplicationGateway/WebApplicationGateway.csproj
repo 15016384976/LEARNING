@@ -6,6 +6,8 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\" />
+    <Folder Include="Errors\" />
+    <Folder Include="新文件夹\" />
   </ItemGroup>
 
   <ItemGroup>
